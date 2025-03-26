@@ -1,0 +1,3 @@
+* erlang.el
+
+This repository is just a copy of [[https://github.com/erlang/otp][erlang/otp]], with only the Emacs libraries extracted.
