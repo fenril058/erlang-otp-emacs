@@ -1,3 +1,7 @@
-* erlang.el
+* erlang-otp-emacs
 
 This repository is just a copy of [[https://github.com/erlang/otp][erlang/otp]], with only the Emacs libraries extracted.
+The files are in:
+
+- https://github.com/erlang/otp/tree/master/lib/tools/emacs
+- https://github.com/erlang/otp/tree/master/lib/tools/src
